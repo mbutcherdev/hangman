@@ -17,7 +17,7 @@ Pulls from a text file and displays progress along the way
 ### Installing
 
 ```
-git clone https://github.com/mbutcherdev/python-projects/hangman
+git clone https://github.com/mbutcherdev/hangman
 ```
 
 ### Executing program
